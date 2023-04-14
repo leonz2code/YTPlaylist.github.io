@@ -6,7 +6,35 @@
   <body>
     <div id="una capa">
       <h1>Hola mundo!</h1>
-      <p>Este es un ejemplo del uso de HTML para crear un documento web que nuestro navegador es capaz de interpretar.</p>
+      <p>Este es un ejemplo de pagina en github para el proyecto para portafolio.</p>
+	  
+	  
+	  <p><img src="bocchi.jpg" width="40%" alt="bocchi" align="left" ></p>
+	  
+	  <p aling="justify"  >Bocchi The Rock es una serie de anime Japones referente a una banda de rock, la protagonista es Hitori Goto (Bocchi) una chi k con problemas de ansiedad social que le gustaría ser notada por su música, increíblemente muchos nos identificamos con ella , literalmente me salvo la vida, no es necesario dejar este mundo para estar muerto en vida, agradezco y tengo 
+	  esperanza en estos tiempos gracias a esta serie, gracias Japón yo sé que los Gaijin no seremos parte nunca de ustedes sin embargo agradezco a todo lo bueno que existen ojalá su cultura jamás cambie si no es para bien</p>
+	  
+	  <p>Siempre me gustaron las canciones donde la guitarra acompaña a la voz el tema "that band" me recordo a un grupo mexicano llamado Caifanes que tiene una canción de nombre "Aqui no es asi" que nos presenta arreglos de guitarra acompañando la voz por eso de inmediato me gusto esta canción de "kessoku band" que es la banda de bocchi
+		este es el tema original
+	  </p>
+	  
+	  <p><iframe width="765" 
+	  height="430" 
+	  src="https://www.youtube.com/embed/yoU1cTsYCGo" 
+	  title="Bocchi se ganó mi corazón con este solo | BOCCHI THE ROCK! (sub. español)" 
+	  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+	  allowfullscreen></iframe></p>
+	  
+	   <p>En este cover podemos notar aun mas la guitarra y como acompaña a la voz , a mi me encanta esa combinación de sonidos, son un deleite auditivo que aparentemente muchos podemos apreciar incluso inconscientemente
+	  
+	  <p><iframe width="765" height="430" src="https://www.youtube.com/embed/k3KeDYaqjgc" 
+	  title="TVアニメ「ぼっち・ざ・ろっく！」劇中曲「あのバンド」を弾いてみた by 三井律郎" 
+	  frameborder="0" 
+	  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+	  allowfullscreen></iframe></p>
+	  
+	   <p><img src="samurai.jpg" width="50%" alt="samurai"></p>
+	  
     </div>
   </body>  
 </HTML>
