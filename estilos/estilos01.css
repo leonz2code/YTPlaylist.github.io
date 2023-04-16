@@ -1,0 +1,18 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+
+}
+
+p {
+
+    color: rgb(223, 238, 18);
+    /* border: 1px; 
+    border-style: solid; */
+    font-family: Arial, Helvetica, sans-serif;
+    size: "7";
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.89);
+}
