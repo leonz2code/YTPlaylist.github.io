@@ -1,0 +1,48 @@
+.resaltar {
+    color: blueviolet;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.minihistoria {
+    font-family: monospace;
+    color: aliceblue;
+    font-style: italic;
+
+
+}
+
+.infanciadolecencia {
+    color: rgb(59, 255, 34);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.normal {
+    color: rgb(223, 238, 18);
+    font-family: Arial,
+        Helvetica,
+        sans-serif;
+    size: "7";
+}
+
+p:hover {
+    background-color: rgba(0, 0, 0, 0.658);
+}
+
+p::first-letter {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div a {
+    font-size: small;
+    color: rgba(0, 0, 0, 0.589);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
